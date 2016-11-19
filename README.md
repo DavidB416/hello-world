@@ -1,2 +1,2 @@
 # hello-world
-the name says it all
+I think that the name says it all
